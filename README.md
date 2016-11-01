@@ -8,7 +8,10 @@ com mudanças mínimas no layout dvorak US padrão.
 
 # Exemplo ilustrativo
 
-A principal vantagem deste layout é para digitar palavras que terminam em __ção__, como, por exemplo, __coração__.
+É fácil perceber as vantagens deste layout através de dois exemplos.
+
+O primeiro exemplo é digitar a palavra __coração__. 
+A principal vantagem deste layout é para digitar palavras que terminam em __ção__.
 
 1. As teclas __c__, __o, __r, __a__ se mantêm iguais no dvorak internacional e neste layout.
 2. Para digitar o __ç__, basta apertar a tecla __9__.
@@ -18,10 +21,11 @@ A principal vantagem deste layout é para digitar palavras que terminam em __ç�
 O que é importante notar neste exemplo é que para digitar o __çã__ não é necessário deslocar a mão de posição,
 como normalmente aconteceria. Além disso, o __ç__ e o __~__ são posicionados convenientemente um do lado do outro.
 
-A segunda vantagem é para digitar o acento agudo, como na palavra sofá.
+O segundo exemplo é digitar a palavra __sofá__.
+A segunda vantagem deste layout é para digitar o acento agudo.
 
 1. O __sof__ se mantém igual.
-2. Para digitar o __á__, se aperta o 7 e depois o __a__.
+2. Para digitar o __á__, se aperta o __7__ e depois o __a__.
 
 O que é importante notar neste segundo exemplo é que para digitar a tecla __´__ não é necessário
 deslocar as mãos de posição, além de que se usa o indicador.
