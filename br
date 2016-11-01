@@ -115,9 +115,11 @@ xkb_symbols "usdvorak" {
     name[Group1]="Portuguese (Brazil, US Dvorak)";
 
 // Numeric row 
-    key <AE07> { [ 7, ampersand, dead_acute, dead_grave      ] };
-    key <AE08> { [ 8,  asterisk, dead_tilde, dead_circumflex ] };
-    key <AE09> { [ 9, parenleft,   ccedilla, parenleft       ] };
+    key <AE07> { [ dead_acute, dead_grave     ,         7, ampersand ] };
+    key <AE08> { [ dead_tilde, dead_circumflex,         8,  asterisk ] };
+    key <AE09> { [   ccedilla, parenleft      ,         9, parenleft ] };
+    key <AC01> { [          a,               A, ordfeminine ] };
+    key <AC02> { [          o,               O, masculine ] };
 
     include "level3(ralt_switch)"
 };
