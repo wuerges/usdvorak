@@ -48,11 +48,15 @@ um pouco mais difícil de alcançar.
 
 # Instalação
 
+```
 $ cp br /usr/share/X11/xkb/symbols/br
 $ cp evdev.xml /usr/share/X11/xkb/rules/evdev.xml
+```
 
 # Uso
 
 Depois disso, o teclado ficará disponível através do comando:
 
+```
 $ setxkbmap br -variant usdvorak
+```
